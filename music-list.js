@@ -12,7 +12,7 @@ let allMusic = [
     name: "Đám Cưới Nha",
     artist: "Hồng Thanh,Mie",
     img: "Dam-Cuoi-Nha",
-    src: "Dam-cuoi-nha"
+    src: "https://mega.nz/file/2s8hnYBA#GLdjEuDJZzA34pbRhaXMIkwhJZ10Wq3Y5l8bxBBFySY"
   },
  
   {
