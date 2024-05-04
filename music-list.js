@@ -11,7 +11,7 @@ let allMusic = [
   {
     name: "Người Chơi Hệ Nước",
     artist: "Bác sĩ Hải",
-    img: "Dam-Cuoi-Nha",
+    img: "KietViva",
     src: "https://mega.nz/file/2s8hnYBA#GLdjEuDJZzA34pbRhaXMIkwhJZ10Wq3Y5l8bxBBFySY"
   },
  
